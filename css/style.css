@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    padding-top: 5rem;
 }
 .carousel-item img{
     opacity: .35 !important;
