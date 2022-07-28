@@ -13,6 +13,13 @@ body{
    left: 50%;
    transform: translate(-50%, -50%);
 }
+.socail-link-container{
+    background-color: #2C3639;
+    height: 2.3rem;
+    width: 2.3rem;
+    border-radius: 50%;
+
+}
 
 @media only screen and (max-width:576px) {
     header h1{
